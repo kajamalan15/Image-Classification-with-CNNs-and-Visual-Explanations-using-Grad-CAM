@@ -1,5 +1,3 @@
-# Image-Classification-with-CNNs-and-Visual-Explanations-using-Grad-CAM-
-
 # 🧠 Image Classification with CNNs & Grad-CAM
 
 This project involves building a deep learning model for image classification (Cats vs Dogs) using Convolutional Neural Networks (CNNs), and applying Explainable AI (XAI) techniques like **Grad-CAM** to visualize how the model makes decisions.
